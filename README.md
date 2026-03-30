@@ -58,6 +58,15 @@ Martensite scores lowest on recall due to limited training data (29 images) - th
 
 ---
 
+## Pretrained Model
+
+The pretrained model is available on Hugging Face:
+[uhcs-microstructure-cnn](https://huggingface.co/Jadzix/uhcs-microstructure-cnn)
+
+To load the model, download `best_model.pth` and place it in the same folder as the notebook.
+
+---
+
 ## Technologies
 
 - **Python 3**
